@@ -44,4 +44,4 @@ function skillsMember() {
     var member41 = document.getElementById("member41");
     var member42 = document.getElementById("member42");
     var member43 = document.getElementById("member43");
-    var member44 = document.getElementById
+    var member44 = document.getElementById}
